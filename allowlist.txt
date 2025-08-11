@@ -1,0 +1,35 @@
+! AdGuard Home allowlist (Adblock syntax)
+! Maintainer: SirOcelot
+! Description: Common banking, streaming, retail, productivity, and CDN domains that can be false-positively blocked by aggressive blocklists.
+! Last-Updated: 2025-08-11
+!
+! Usage:
+!  - Host this file somewhere with a raw URL, for example GitHub: https://raw.githubusercontent.com/SirOcelot/adguard-filters/main/allowlist.txt
+!  - In AdGuard Home: Filters -> Allowlist -> Add URL, paste the raw link.
+!
+@@||bankofamerica.com^
+@@||chase.com^
+@@||wellsfargo.com^
+@@||capitalone.com^
+@@||citizensbank.com^
+@@||netflix.com^
+@@||nflxvideo.net^
+@@||hulu.com^
+@@||disneyplus.com^
+@@||primevideo.com^
+@@||amazon.com^
+@@||images-amazon.com^
+@@||ebay.com^
+@@||paypal.com^
+@@||microsoft.com^
+@@||office.com^
+@@||outlook.com^
+@@||live.com^
+@@||teams.microsoft.com^
+@@||zoom.us^
+@@||slack.com^
+@@||cdn.cloudflare.net^
+@@||akamaihd.net^
+@@||akamai.net^
+@@||googleapis.com^
+@@||gstatic.com^
