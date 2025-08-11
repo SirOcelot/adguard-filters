@@ -35,3 +35,13 @@
 @@||gstatic.com^
 @@||pnc.com^
 @@||pncbank.com^
+@@||playstation.com^
+@@||sonyentertainmentnetwork.com^
+@@||pscdn.co^
+@@||playstation.net^
+@@||playstationnetwork.com^
+@@||steampowered.com^
+@@||steamcommunity.com^
+@@||steamcontent.com^
+@@||steamstatic.com^
+@@||steam-chat.com^
