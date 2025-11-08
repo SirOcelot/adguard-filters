@@ -1,7 +1,7 @@
 ! AdGuard Home allowlist (Adblock syntax)
 ! Maintainer: SirOcelot
 ! Description: Common banking, streaming, retail, productivity, and CDN domains that can be false-positively blocked by aggressive blocklists.
-! Last-Updated: 2025-08-11
+! Last-Updated: 2025-11-07
 !
 ! Usage:
 !  - Host this file somewhere with a raw URL, for example GitHub: https://raw.githubusercontent.com/SirOcelot/adguard-filters/main/allowlist.txt
