@@ -45,3 +45,14 @@
 @@||steamcontent.com^
 @@||steamstatic.com^
 @@||steam-chat.com^
+@@||nanoleaf.me^
+@@||api.nanoleaf.me^
+@@||cloud.nanoleaf.me^
+@@||discovery.nanoleaf.me^
+@@||app.nanoleaf.me^
+@@||nanoleafportal.me^
+@@||ota.nanoleaf.me^
+@@||nanoleaf.me^
+@@||amazonaws.com^
+@@||cloudfront.net^
+@@||mixpanel.com^
